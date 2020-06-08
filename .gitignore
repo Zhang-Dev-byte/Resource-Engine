@@ -37,3 +37,11 @@
 
 # Folders
 .vs/
+bin/
+bin-int/
+
+# Files
+*.sln
+*.user
+*.filters
+*.vcxproj
